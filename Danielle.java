@@ -1,7 +1,3 @@
-/**
- * 
- */
-package danielleFinal;
 
 import java.io.File;
 import java.io.*;
@@ -20,9 +16,6 @@ public class Danielle {
 	
 	String userName = System.getProperty("user.name");
 	
-	 
-	
-	public static void main(String[] args) {
 
 		FileSystemView fsv = FileSystemView.getFileSystemView();
 
